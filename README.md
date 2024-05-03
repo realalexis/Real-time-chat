@@ -15,4 +15,4 @@ Il s'agit d'une application de chat simple créée avec Socket.io. Elle permet a
     Côté client : exécutez npm run dev.
 Côté serveur : exécutez node app.js.
 ## Demo
-![demo JoinChat](/Demo_Join_chat.png)
+<img src="/Demo_Join_chat" alt="demo Join chat" width="300" height="200">

@@ -15,4 +15,7 @@ Il s'agit d'une application de chat simple créée avec Socket.io. Elle permet a
     Côté client : exécutez npm run dev.
 Côté serveur : exécutez node app.js.
 ## Demo
-<img src="/Demo_Join_chat" alt="demo Join chat" width="300" height="200">
+1. Pour rejoindre un chat, il faut un pseudo et un identifiant de salle (room ID).
+
+   
+    <img src="/Demo_Join_chat.png" alt="Nom de l'image" width="300">
